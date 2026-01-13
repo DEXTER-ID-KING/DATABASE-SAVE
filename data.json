@@ -140,6 +140,13 @@
       "ua": "vercel-favicon/1.0",
       "path": "/favicon.png",
       "created_at": "2026-01-07T07:40:28.051Z"
+    },
+    {
+      "session_id": "93ecb01b93548011dab833f7",
+      "ip": "127.0.0.1",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36",
+      "path": "/favicon.ico",
+      "created_at": "2026-01-13T09:39:28.989Z"
     }
   ],
   "unlock_keys": []
